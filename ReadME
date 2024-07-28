@@ -1,5 +1,0 @@
-
-
-```bash
-pip install numpy tensorflow scikit-learn keras matplotlib
-
