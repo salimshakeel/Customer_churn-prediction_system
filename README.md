@@ -29,8 +29,7 @@ The dataset used for this project contains information about bank customers, inc
 
 ## Usage
 Clone the repository:
-git clone https://github.com/username/customer-churn-prediction.git
-
+(https://github.com/salimshakeel/Customer_churn-prediction_system.git)
 ## Results
 The model's performance is visualized using Matplotlib. Various plots are generated to show the distribution of features, model accuracy, and other relevant metrics. Example results include:
 Accuracy: The overall accuracy of the model on the test dataset.
