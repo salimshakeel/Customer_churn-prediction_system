@@ -8,10 +8,8 @@ This project is a Customer Churn Prediction System developed for a bank. It uses
 - [Data](#data)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Training](#model-training)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
